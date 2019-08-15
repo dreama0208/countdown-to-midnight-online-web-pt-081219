@@ -7,7 +7,7 @@ def countdown (integer)
   end
   if integer >== 1
     puts "1 SECOND!"
-    puts "0 SECOND"!
+    puts "0 SECOND!"
   end
   "HAPPY NEW YEAR!"
 end
