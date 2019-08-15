@@ -2,7 +2,7 @@
 
 def countdown (integer)
   until integer == 0 do
-    puts "#{integer - 1} SECOND(S)!"
+    puts "#{integer} SECOND(S)!"
     integer -= 1
   end
   "HAPPY NEW YEAR!"
