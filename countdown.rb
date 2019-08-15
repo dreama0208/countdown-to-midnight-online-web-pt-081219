@@ -5,7 +5,7 @@ def countdown (integer)
     puts "#{integer - 1} SECONDS!"
     integer -= 1
   end
-  if integer >== 1
+  if integer >= 1
     puts "1 SECOND!"
     puts "0 SECOND!"
   end
