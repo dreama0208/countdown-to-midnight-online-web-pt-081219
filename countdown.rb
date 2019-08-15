@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown (integer)
-  until interger == 2 do
+  until integer == 2 do
     puts "#{integer - 1} SECONDS!"
     integer -= 1
   end
